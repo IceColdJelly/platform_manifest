@@ -363,6 +363,8 @@
   <project path="vendor/htc" name="vendor_htc" remote="icecoldjelly" revision="jb"/>
   <project path="vendor/aokp" name="vendor_aokp" remote="icecoldjelly" revision="jb"/>
 
+  <project path="vendor/tmobile/themes/JellyBlue" name="speedydaniel/vendor_tmobile_themes_JellyBlue" remote="github" revision="master" />
+
 
 <!-- Begin custom repos repos -->
   <project path="external/polly" name="adrian-bl/android_pollyd" remote="github" revision="master" />
