@@ -41,7 +41,6 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="cts" name="platform/cts" />
-  <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
@@ -302,6 +301,7 @@
 
 <!-- Begin AOKP repos -->
   <project path="sdk" name="AOKP/android_sdk" remote="aokp" revision="jb" />
+  <project path="development" name="AOKP/platform_development" remote="aokp" revision="jb" />
   <project path="device/samsung/crespo" name="AOKP/device_samsung_crespo" remote="aokp" revision="jb" />
   <project path="external/qemu" name="AOKP/android_external_qemu" remote="aokp" revision="jb" />
   <project path="external/jpeg" name="AOKP/external_jpeg" remote="aokp" revision="jb" />
