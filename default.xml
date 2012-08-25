@@ -36,7 +36,7 @@
            remote="aosp"
            sync-j="8" />
 
-<project path="build" name="AOKP/android_build"  remote="aokp" revision="jb" >
+<project path="build" name="android_build"  remote="icecoldjelly" revision="jb-tg" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
