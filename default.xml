@@ -282,6 +282,7 @@
   <project path="external/openssh" name="android_external_openssh" remote="cm" revision="jellybean" />
   <project path="external/openvpn" name="android_external_openvpn" remote="cm" revision="jellybean" />
   <project path="external/qrngd" name="android_external_qrngd" remote="cm" revision="jellybean" />
+  <project path="external/sqlite" name="android_external_sqlite" remote="cm" revision="jellybean" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="jellybean" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="jellybean" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="jellybean" />
@@ -328,7 +329,6 @@
   <project path="dalvik" name="platform_dalvik" remote="icecoldjelly" revision="jb" />
 
   <project path="external/bluetooth/bluez" name="external_bluetooth_bluez" remote="icecoldjelly" revision="jb" />
-  <project path="external/sqlite" name="android_external_sqlite" remote="icecoldjelly" revision="jellybean" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecoldjelly" revision="jb" />
 
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecoldjelly" revision="jb"/>
