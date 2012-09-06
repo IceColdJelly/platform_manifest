@@ -306,7 +306,9 @@
   <project path="external/skia" name="AOKP/external_skia" remote="aokp" revision="jb" />
   <project path="external/sqlite" name="AOKP/external_sqlite" remote="aokp" revision="jb" />
   <project path="external/webkit" name="AOKP/external_webkit" remote="aokp" revision="jb" />
+  <project path="frameworks/native" name="AOKP/frameworks_native" remote="aokp" revision="jb" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="aokp" revision="jb" />
+  <project path="hardware/libhardware" name="AOKP/android_hardware_libhardware" remote="aokp" revision="jb" />
   <project path="hardware/qcom/audio" name="AOKP/android_hardware_qcom_audio" remote="aokp" revision="jb" />
   <project path="hardware/qcom/display" name="AOKP/android_hardware_qcom_display" remote="aokp" revision="jb" />
   <project path="hardware/qcom/media" name="AOKP/android_hardware_qcom_media" remote="aokp" revision="jb" />
@@ -335,9 +337,7 @@
 
   <project path="frameworks/av" name="android_frameworks_av" remote="icecoldjelly" revision="jb" />
   <project path="frameworks/base" name="frameworks_base" remote="icecoldjelly" revision="jb-aokp" />
-  <project path="frameworks/native" name="frameworks_native" remote="icecoldjelly" revision="jb" />
 
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="icecoldjelly" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="icecoldjelly" revision="jb"/>
   <project path="hardware/ril" name="android_hardware_ril" remote="tg" revision="jb" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="icecoldjelly" revision="jb" />
