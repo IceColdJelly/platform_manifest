@@ -310,6 +310,7 @@
   <project path="external/skia" name="AOKP/external_skia" remote="aokp" revision="jb" />
   <project path="external/sqlite" name="AOKP/external_sqlite" remote="aokp" revision="jb" />
   <project path="external/webkit" name="AOKP/external_webkit" remote="aokp" revision="jb" />
+  <project path="frameworks/av" name="AOKP/frameworks_av" remote="aokp" revision="jb" />
   <project path="frameworks/native" name="AOKP/frameworks_native" remote="aokp" revision="jb" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="aokp" revision="jb" />
   <project path="packages/inputmethods/LatinIME" name="AOKP/packages_input_LatinIME" remote="aokp" revision="jb" />
@@ -334,7 +335,6 @@
 
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecoldjelly" revision="jb"/>
 
-  <project path="frameworks/av" name="android_frameworks_av" remote="icecoldjelly" revision="jb" />
   <project path="frameworks/base" name="frameworks_base" remote="icecoldjelly" revision="jb-aokp" />
 
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="icecoldjelly" revision="jb"/>
