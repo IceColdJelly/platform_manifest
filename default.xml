@@ -302,7 +302,6 @@
 
 <!-- Begin AOKP repos -->
   <project path="sdk" name="AOKP/android_sdk" remote="aokp" revision="jb" />
-  <project path="development" name="AOKP/platform_development" remote="aokp" revision="jb" />
   <project path="device/samsung/crespo" name="AOKP/device_samsung_crespo" remote="aokp" revision="jb" />
   <project path="external/chromium" name="AOKP/external_chromium" remote="aokp" revision="jb" />
   <project path="external/freetype" name="AOKP/external_freetype" remote="aokp" revision="jb" />
@@ -333,6 +332,7 @@
   <project path="platform_manifest" name="platform_manifest" remote="icecoldjelly" revision="jb" />
   <project path="bionic" name="android_bionic" remote="icecoldjelly" revision="jellybean" />
   <project path="dalvik" name="platform_dalvik" remote="icecoldjelly" revision="jb" />
+  <project path="development" name="platform_development" remote="icecoldjelly" revision="jb" />
 
   <project path="external/bluetooth/bluez" name="external_bluetooth_bluez" remote="icecoldjelly" revision="jb" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecoldjelly" revision="jb" />
