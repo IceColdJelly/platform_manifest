@@ -288,7 +288,6 @@
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cm" revision="jellybean" />
-  <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="cm" revision="jellybean" />
   <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="cm" revision="ics" />
   <project path="packages/apps/Torch" name="android_packages_apps_Torch" remote="cm" revision="jellybean" />
   <project path="prebuilts/misc" name="android_prebuilts_misc" remote="cm" revision="jellybean" />
@@ -347,6 +346,7 @@
 
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="icecoldjelly" revision="jb" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="icecoldjelly" revision="jellybean" />
+  <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="icecoldjelly" revision="jellybean" />
   <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="icecoldjelly" revision="jb" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecoldjelly" revision="jb" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="icecoldjelly" revision="jellybean" />
