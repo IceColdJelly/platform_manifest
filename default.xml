@@ -99,7 +99,6 @@
   <project path="external/icu4c" name="platform/external/icu4c" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/iproute2" name="platform/external/iproute2" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="external/iptables" name="platform/external/iptables" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/javasqlite" name="platform/external/javasqlite" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/javassist" name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="external/jdiff" name="platform/external/jdiff" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
@@ -333,6 +332,7 @@
   <project path="dalvik" name="platform_dalvik" remote="icecoldjelly" revision="jb" />
   <project path="development" name="platform_development" remote="icecoldjelly" revision="jb" />
 
+  <project path="external/iptables" name="android_external_iptables" remote="icecoldjelly" revision="jb" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="icecoldjelly" revision="jb" />
 
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="icecoldjelly" revision="jb"/>
