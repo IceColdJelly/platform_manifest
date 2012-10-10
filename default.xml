@@ -298,7 +298,7 @@
 
 
 <!-- Begin AOKP repos -->
-  <project path="sdk" name="AOKP/platform_sdk" remote="aokp" revision="jb" />
+  <project path="sdk" name="AOKP/android_sdk" remote="aokp" revision="jb" />
   <project path="device/samsung/crespo" name="AOKP/device_samsung_crespo" remote="aokp" revision="jb" />
   <project path="external/chromium" name="AOKP/external_chromium" remote="aokp" revision="jb" />
   <project path="external/bluetooth/bluez" name="AOKP/external_bluetooth_bluez" remote="aokp" revision="jb" />
