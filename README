@@ -24,4 +24,4 @@ To build:
 
 OR if you have installed ccache use this build script for faster compilation
 
-    . vendor/aokp/build.sh
+    ./vendor/aokp/build.sh
